@@ -1,0 +1,7 @@
+[
+  {"message": "I was charged twice for order ORD-1024. Please help me get a refund.", "expected_category": "billing", "expected_order_id": "ORD-1024"},
+  {"message": "I cannot log in to my account. Please reset my password.", "expected_category": "account", "expected_order_id": null},
+  {"message": "The application crashes whenever I open settings.", "expected_category": "technical", "expected_order_id": null},
+  {"message": "I need help with something.", "expected_category": "other", "expected_order_id": null},
+  {"message": "Please check payment for ORD-1024 and ORD-1025.", "expected_category": "billing", "expected_order_id": null}
+]
